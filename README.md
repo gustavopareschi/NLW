@@ -12,8 +12,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 # 💻 Projeto
 NLW eSports é um projeto voltado para a conexão entre gamers.
+<p>
+Visualize o <a href='https://gustavopareschi.github.io/nlw-sports/'>PROJETO!</a>
+</p>
 
 # 🔖 Layout
 Você pode visualizar o layout do projeto através desse link. É necessário ter conta no Figma para acessá-lo.
 #
-Este projeto foi desenvolvido durante a Next Level Week eSports, realizada pela <a href='https://rocketseat.com.br' > @Rocketseat </a> 💜.
+Este projeto foi desenvolvido durante a Next Level Week eSports, realizada pela <a href='https://rocketseat.com.br'> @Rocketseat </a> 💜.
