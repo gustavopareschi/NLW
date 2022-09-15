@@ -13,7 +13,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 # 💻 Projeto
 NLW eSports é um projeto voltado para a conexão entre gamers.
 <p>
-Visualize o <a href='https://gustavopareschi.github.io/nlw-sports/'>PROJETO!</a>
+Visualize o <a href='https://gustavopareschi.github.io/NLW/'>PROJETO!</a>
 </p>
 
 # 🔖 Layout
